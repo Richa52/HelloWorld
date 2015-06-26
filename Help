@@ -1,0 +1,21 @@
+1. install dnvm
+run in cmd.(if before install kpm kre all then first Remove all kpm kre form user folder also variable envirement also)then istall dnvm
+c:\users\richa\Desktop\Home-Master\samples\hello-mvc>
+@powershell -NoProfile -ExecutionPolicy unrestricted -Command "&{$Branch='dev';iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/aspnet/Home/dev/dnvminstall.ps1'))}"
+
+2.RUn upgread dnvm command
+
+c:\users\richa\Desktop\Home-Master\samples\hello-mvc> dnvm upgread
+
+3.Display list of dnvm
+c:\users\richa\Desktop\Home-Master\samples\hello-mvc> dnvm list
+
+4.find where is dnvm install
+
+c:\users\richa\Desktop\Home-Master\samples\hello-mvc>where dnvm
+
+5.Build application
+c:\users\richa\Desktop\Home-Master\samples\hello-mvc>dnu build
+
+6.run application 
+c:\users\richa\Desktop\Home-Master\samples\hello-mvc>dnu kestrel
