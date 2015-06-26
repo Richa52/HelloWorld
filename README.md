@@ -6,7 +6,7 @@ https://github.com/aspnet/Home
 http://www.asp.net/vnext
 
 https://lbadri.wordpress.com/2014/10/19/a-simple-asp-net-vnext-mvc-application-without-visual-studio-2014-part-1/
-
+https://github.com/aspnet/Home/wiki/version-manager
 
 http://docs.asp.net/en/latest/
 
