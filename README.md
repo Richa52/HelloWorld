@@ -4,6 +4,9 @@ Without use of visual studio create application of Asp.net using atom editor &am
 https://github.com/aspnet/Home
 http://www.asp.net/vnext
 
+
+http://docs.asp.net/en/latest/
+
 Getting Started with ASP.NET 5 and DNX
 This guide is designed to get you started building applications with the latest development versions ASP.NET 5 and DNX. This means nightly builds and potentially broken or unstable packages.
 
