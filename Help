@@ -18,4 +18,4 @@ c:\users\richa\Desktop\Home-Master\samples\hello-mvc>where dnvm
 c:\users\richa\Desktop\Home-Master\samples\hello-mvc>dnu build
 
 6.run application 
-c:\users\richa\Desktop\Home-Master\samples\hello-mvc>dnu kestrel
+c:\users\richa\Desktop\Home-Master\samples\hello-mvc>dnx .kestrel
