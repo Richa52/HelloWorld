@@ -2,7 +2,10 @@
 Without use of visual studio create application of Asp.net using atom editor &amp; Cmdr command
 // refer this link.
 https://github.com/aspnet/Home
+
 http://www.asp.net/vnext
+
+https://lbadri.wordpress.com/2014/10/19/a-simple-asp-net-vnext-mvc-application-without-visual-studio-2014-part-1/
 
 
 http://docs.asp.net/en/latest/
