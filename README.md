@@ -11,6 +11,8 @@ https://github.com/aspnet/Home/wiki/version-manager
 
 http://docs.asp.net/en/latest/
 
+http://blog.jsinh.in/project-k-what-is-k-kvm-kre-klr-kpm-in-asp-net-vnext/#.VY0KnEYcM5I
+
 Getting Started with ASP.NET 5 and DNX
 This guide is designed to get you started building applications with the latest development versions ASP.NET 5 and DNX. This means nightly builds and potentially broken or unstable packages.
 
